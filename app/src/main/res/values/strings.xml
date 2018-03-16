@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizPrimero</string>
+    <string name="tv_title_index">FINANCIAR</string>
+    <string name="tv_price_index">$7.963.420</string>
+    <string name="tv_date_index">Mar. 15 - 22 , 2018</string>
+    <string name="tv_column_price_index">$1.173.000</string>
+    <string name="tv_column_label_index">Ingresos</string>
+    <string name="tv_column_percentage">+13%</string>
+    <string name="tv_column_price_expences_index">$3.747.000</string>
+    <string name="tv_column_label_expences_index">Gastos</string>
+    <string name="tv_column_percentage_expences">-37%</string>
+    <string name="tv_sectiongray_label">Historial De Transacciones</string>
+    <string name="tv_sectiongray_label_more">Mas</string>
+    <string name="str_menu_search">Buscar</string>
+    <string name="str_menu_share">Compartir</string>
+    <string name="str_menu_configuration">Mas opciones</string>
+</resources>
